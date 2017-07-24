@@ -1,5 +1,4 @@
-## hellojava
-### Pay attention to the following
+# hellojava
 - source code
 - toolchain
 - end2end
