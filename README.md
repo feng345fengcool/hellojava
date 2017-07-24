@@ -1,2 +1,5 @@
 # hellojava
-Migrate from taobao code repository, this contains a few java cases.
+## Pay attention to the following
+- source code
+- toolchain
+- end2end
